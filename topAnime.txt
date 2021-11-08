@@ -57,13 +57,13 @@ https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro
 https://myanimelist.net/anime/40591/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen
 https://myanimelist.net/anime/11665/Natsume_Yuujinchou_Shi
 https://myanimelist.net/anime/33352/Violet_Evergarden
+https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_Part_2
 https://myanimelist.net/anime/48569/86_Part_2
 https://myanimelist.net/anime/34591/Natsume_Yuujinchou_Roku
 https://myanimelist.net/anime/38329/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai
 https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann
 https://myanimelist.net/anime/7311/Suzumiya_Haruhi_no_Shoushitsu
 https://myanimelist.net/anime/1535/Death_Note
-https://myanimelist.net/anime/45576/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu_Part_2
 https://myanimelist.net/anime/22135/Ping_Pong_the_Animation
 https://myanimelist.net/anime/35760/Shingeki_no_Kyojin_Season_3
 https://myanimelist.net/anime/28957/Mushishi_Zoku_Shou__Suzu_no_Shizuku
@@ -125,7 +125,6 @@ https://myanimelist.net/anime/11577/Steins_Gate_Movie__Fuka_Ryouiki_no_Déjà_vu
 https://myanimelist.net/anime/20583/Haikyuu
 https://myanimelist.net/anime/39247/Kobayashi-san_Chi_no_Maid_Dragon_S
 https://myanimelist.net/anime/44042/Holo_no_Graffiti
-https://myanimelist.net/anime/49926/Kimetsu_no_Yaiba__Mugen_Ressha-hen
 https://myanimelist.net/anime/11981/Mahou_Shoujo_Madoka★Magica_Movie_3__Hangyaku_no_Monogatari
 https://myanimelist.net/anime/10165/Nichijou
 https://myanimelist.net/anime/31181/Owarimonogatari
@@ -134,6 +133,7 @@ https://myanimelist.net/anime/24687/Mushishi_Zoku_Shou__Odoro_no_Michi
 https://myanimelist.net/anime/392/Yuu☆Yuu☆Hakusho
 https://myanimelist.net/anime/41025/Fumetsu_no_Anata_e
 https://myanimelist.net/anime/40059/Golden_Kamuy_3rd_Season
+https://myanimelist.net/anime/49926/Kimetsu_no_Yaiba__Mugen_Ressha-hen
 https://myanimelist.net/anime/21899/Gintama__Yorinuki_Gintama-san_on_Theater_2D
 https://myanimelist.net/anime/2246/Mononoke
 https://myanimelist.net/anime/34612/Saiki_Kusuo_no_Ψ-nan_2
@@ -160,13 +160,13 @@ https://myanimelist.net/anime/5941/Cross_Game
 https://myanimelist.net/anime/35557/Houseki_no_Kuni_TV
 https://myanimelist.net/anime/136/Hunter_x_Hunter
 https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen
-https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu
 https://myanimelist.net/anime/36275/Natsume_Yuujinchou_Roku_Specials
 https://myanimelist.net/anime/10162/Usagi_Drop
 https://myanimelist.net/anime/39741/Violet_Evergarden_Gaiden__Eien_to_Jidou_Shuki_Ningyou
 https://myanimelist.net/anime/39547/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru_Kan
 https://myanimelist.net/anime/2251/Baccano
 https://myanimelist.net/anime/9260/Kizumonogatari_I__Tekketsu-hen
+https://myanimelist.net/anime/48926/Komi-san_wa_Comyushou_desu
 https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira
 https://myanimelist.net/anime/42984/Gotcha
 https://myanimelist.net/anime/30709/Kamisama_Hajimemashita__Kako-hen
@@ -485,7 +485,6 @@ https://myanimelist.net/anime/33161/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machiga
 https://myanimelist.net/anime/1943/Paprika
 https://myanimelist.net/anime/1257/Saint_Seiya__Meiou_Hades_Juuni_Kyuu-hen
 https://myanimelist.net/anime/1914/Saiunkoku_Monogatari_2nd_Season
-https://myanimelist.net/anime/5365/Tsumiki_no_Ie
 https://myanimelist.net/anime/40174/Zombieland_Saga__Revenge
 https://myanimelist.net/anime/37870/BanG_Dream_3rd_Season
 https://myanimelist.net/anime/39565/Boku_no_Hero_Academia_the_Movie_2__Heroes_Rising
@@ -504,6 +503,7 @@ https://myanimelist.net/anime/2034/Lovely★Complex
 https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic
 https://myanimelist.net/anime/42923/SK∞
 https://myanimelist.net/anime/16049/Toaru_Kagaku_no_Railgun_S
+https://myanimelist.net/anime/5365/Tsumiki_no_Ie
 https://myanimelist.net/anime/31251/Mobile_Suit_Gundam__Iron-Blooded_Orphans
 https://myanimelist.net/anime/16067/Nagi_no_Asu_kara
 https://myanimelist.net/anime/9204/Omae_Umasou_da_na
@@ -515,13 +515,13 @@ https://myanimelist.net/anime/2167/Clannad
 https://myanimelist.net/anime/1482/DGray-man
 https://myanimelist.net/anime/781/Detective_Conan_Movie_03__The_Last_Wizard_of_the_Century
 https://myanimelist.net/anime/1363/Detective_Conan_Movie_04__Captured_in_Her_Eyes
+https://myanimelist.net/anime/44412/Doupo_Cangqiong_4th_Season
 https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone
 https://myanimelist.net/anime/227/FLCL
 https://myanimelist.net/anime/16/Hachimitsu_to_Clover
 https://myanimelist.net/anime/7054/Kaichou_wa_Maid-sama
 https://myanimelist.net/anime/14807/Kara_no_Kyoukai_Movie__Mirai_Fukuin
 https://myanimelist.net/anime/9963/Detective_Conan_Movie_15__Quarter_of_Silence
-https://myanimelist.net/anime/44412/Doupo_Cangqiong_4th_Season
 https://myanimelist.net/anime/4789/ef__A_Tale_of_Melodies
 https://myanimelist.net/anime/7465/Eve_no_Jikan_Movie
 https://myanimelist.net/anime/6421/Fullmetal_Alchemist__Brotherhood_Specials
@@ -531,13 +531,13 @@ https://myanimelist.net/anime/35848/Promare
 https://myanimelist.net/anime/535/Slayers_Next
 https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari
 https://myanimelist.net/anime/1023/Wolfs_Rain_OVA
+https://myanimelist.net/anime/44069/Xian_Wang_de_Richang_Shenghuo_2
 https://myanimelist.net/anime/7720/Ookiku_Furikabutte__Natsu_no_Taikai-hen
 https://myanimelist.net/anime/31149/Persona_3_the_Movie_4__Winter_of_Rebirth
 https://myanimelist.net/anime/12477/Sakasama_no_Patema
 https://myanimelist.net/anime/846/School_Rumble_Ni_Gakki
 https://myanimelist.net/anime/36949/Shokugeki_no_Souma__San_no_Sara_-_Tootsuki_Ressha-hen
 https://myanimelist.net/anime/1065/Touch
-https://myanimelist.net/anime/44069/Xian_Wang_de_Richang_Shenghuo_2
 https://myanimelist.net/anime/34376/Yuuki_Yuuna_wa_Yuusha_de_Aru__Washio_Sumi_no_Shou_3_-_Yakusoku
 https://myanimelist.net/anime/2563/Aria_the_OVA__Arietta
 https://myanimelist.net/anime/34440/Code_Geass__Hangyaku_no_Lelouch_III_-_Oudou
@@ -554,7 +554,6 @@ https://myanimelist.net/anime/2004/Hanada_Shounen-shi
 https://myanimelist.net/anime/27989/Hibike_Euphonium
 https://myanimelist.net/anime/40716/Kakushigoto_TV
 https://myanimelist.net/anime/6045/Kimi_ni_Todoke
-https://myanimelist.net/anime/9656/Kimi_ni_Todoke_2nd_Season
 https://myanimelist.net/anime/12031/Kingdom
 https://myanimelist.net/anime/4672/Koukaku_Kidoutai_20
 https://myanimelist.net/anime/5029/Major_Movie__Yuujou_no_Winning_Shot
@@ -570,6 +569,7 @@ https://myanimelist.net/anime/31964/Boku_no_Hero_Academia
 https://myanimelist.net/anime/38408/Boku_no_Hero_Academia_4th_Season
 https://myanimelist.net/anime/27831/Durararax2_Ten
 https://myanimelist.net/anime/9996/Hyouge_Mono
+https://myanimelist.net/anime/9656/Kimi_ni_Todoke_2nd_Season
 https://myanimelist.net/anime/31173/Akagami_no_Shirayuki-hime_2nd_Season
 https://myanimelist.net/anime/36369/Ginga_Eiyuu_Densetsu__Die_Neue_These_-_Seiran_1
 https://myanimelist.net/anime/387/Haibane_Renmei
@@ -634,7 +634,6 @@ https://myanimelist.net/anime/31490/One_Piece_Film__Gold
 https://myanimelist.net/anime/28297/Ore_Monogatari
 https://myanimelist.net/anime/29803/Overlord
 https://myanimelist.net/anime/33926/Quanzhi_Gaoshou
-https://myanimelist.net/anime/48556/Takt_Op_Destiny
 https://myanimelist.net/anime/658/Touhai_Densetsu_Akagi__Yami_ni_Maiorita_Tensai
 https://myanimelist.net/anime/37936/Wu_Shan_Wu_Xing
 https://myanimelist.net/anime/28/Yakitate_Japan
@@ -667,6 +666,7 @@ https://myanimelist.net/anime/27775/Plastic_Memories
 https://myanimelist.net/anime/114/Sakigake_Cromartie_Koukou
 https://myanimelist.net/anime/12815/Shirokuma_Cafe
 https://myanimelist.net/anime/2618/Takarajima
+https://myanimelist.net/anime/48556/Takt_Op_Destiny
 https://myanimelist.net/anime/995/Tennis_no_Ouji-sama__Zenkoku_Taikai-hen
 https://myanimelist.net/anime/2752/Tennis_no_Ouji-sama__Zenkoku_Taikai-hen_-_Semifinal
 https://myanimelist.net/anime/41389/Tonikaku_Kawaii
@@ -679,6 +679,7 @@ https://myanimelist.net/anime/24/School_Rumble
 https://myanimelist.net/anime/8063/Sekaiichi_Hatsukoi_OVA
 https://myanimelist.net/anime/11813/Shijou_Saikyou_no_Deshi_Kenichi_OVA
 https://myanimelist.net/anime/2158/Terra_e_TV
+https://myanimelist.net/anime/38349/Wotaku_ni_Koi_wa_Muzukashii_OVA
 https://myanimelist.net/anime/32995/Yuri_on_Ice
 https://myanimelist.net/anime/3228/Zoku_Sayonara_Zetsubou_Sensei
 https://myanimelist.net/anime/37435/Carole___Tuesday
@@ -690,15 +691,14 @@ https://myanimelist.net/anime/3014/Ginga_Eiyuu_Densetsu__Waga_Yuku_wa_Hoshi_no_T
 https://myanimelist.net/anime/7062/Hidamari_Sketch_x_☆☆☆
 https://myanimelist.net/anime/1594/Jigoku_Shoujo_Futakomori
 https://myanimelist.net/anime/10080/Kami_nomi_zo_Shiru_Sekai_II
-https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty
 https://myanimelist.net/anime/34438/Code_Geass__Hangyaku_no_Lelouch_I_-_Koudou
+https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty
 https://myanimelist.net/anime/3572/Macross_F
 https://myanimelist.net/anime/36563/Megalo_Box
 https://myanimelist.net/anime/85/Mobile_Suit_Zeta_Gundam
 https://myanimelist.net/anime/11123/Sekaiichi_Hatsukoi_2
 https://myanimelist.net/anime/20371/Sekaiichi_Hatsukoi_Movie__Yokozawa_Takafumi_no_Baai
 https://myanimelist.net/anime/9941/Tiger___Bunny
-https://myanimelist.net/anime/38349/Wotaku_ni_Koi_wa_Muzukashii_OVA
 https://myanimelist.net/anime/25161/One_Piece_3D2Y__Ace_no_shi_wo_Koete_Luffy_Nakama_Tono_Chikai
 https://myanimelist.net/anime/36215/One_Piece__Episode_of_East_Blue_-_Luffy_to_4-nin_no_Nakama_no_Daibouken
 https://myanimelist.net/anime/6007/Ookami_to_Koushinryou_II__Ookami_to_Kohakuiro_no_Yuuutsu
@@ -849,8 +849,6 @@ https://myanimelist.net/anime/97/Last_Exile
 https://myanimelist.net/anime/4472/Lucky☆Star__Original_na_Visual_to_Animation
 https://myanimelist.net/anime/5310/Macross_F_Movie_1__Itsuwari_no_Utahime
 https://myanimelist.net/anime/9252/Break_Blade_3__Kyoujin_no_Ato
-https://myanimelist.net/anime/6768/Code_Geass__Hangyaku_no_Lelouch_R2_Special_Edition_-_Zero_Requiem
-https://myanimelist.net/anime/8142/Colorful_Movie
 https://myanimelist.net/anime/1505/Detective_Conan_Movie_09__Strategy_Above_the_Depths
 https://myanimelist.net/anime/4447/Detective_Conan_Movie_12__Full_Score_of_Fear
 https://myanimelist.net/anime/39164/Dramaturgy
@@ -858,7 +856,6 @@ https://myanimelist.net/anime/37033/Emiya-san_Chi_no_Kyou_no_Gohan
 https://myanimelist.net/anime/1491/Ginga_Tetsudou_999
 https://myanimelist.net/anime/29787/Gochuumon_wa_Usagi_Desu_ka
 https://myanimelist.net/anime/451/InuYasha_Movie_3__Tenka_Hadou_no_Ken
-https://myanimelist.net/anime/5781/Isekai_no_Seikishi_Monogatari
 https://myanimelist.net/anime/2273/Mobile_Suit_Gundam_Wing__Endless_Waltz_Special
 https://myanimelist.net/anime/2143/Saiyuuki_Reload__Burial
 https://myanimelist.net/anime/22319/Tokyo_Ghoul
@@ -870,6 +867,8 @@ https://myanimelist.net/anime/36106/Shingeki_no_Kyojin__Lost_Girls
 https://myanimelist.net/anime/17949/The_Everlasting_Guilty_Crown
 https://myanimelist.net/anime/12017/Tiger___Bunny_Movie_2__The_Rising
 https://myanimelist.net/anime/7044/Zan_Sayonara_Zetsubou_Sensei_Bangaichi
+https://myanimelist.net/anime/6768/Code_Geass__Hangyaku_no_Lelouch_R2_Special_Edition_-_Zero_Requiem
+https://myanimelist.net/anime/8142/Colorful_Movie
 https://myanimelist.net/anime/35120/Devilman__Crybaby
 https://myanimelist.net/anime/33280/Gochuumon_wa_Usagi_Desu_ka__Dear_My_Sister
 https://myanimelist.net/anime/15809/Hataraku_Maou-sama
@@ -877,6 +876,7 @@ https://myanimelist.net/anime/7645/Heartcatch_Precure
 https://myanimelist.net/anime/5630/Higashi_no_Eden
 https://myanimelist.net/anime/20431/Hoozuki_no_Reitetsu
 https://myanimelist.net/anime/2828/Ie_Naki_Ko
+https://myanimelist.net/anime/5781/Isekai_no_Seikishi_Monogatari
 https://myanimelist.net/anime/11887/Kokoro_Connect
 https://myanimelist.net/anime/1425/Lupin_III__Part_II
 https://myanimelist.net/anime/37873/BanG_Dream_Garupa☆Pico
@@ -908,7 +908,6 @@ https://myanimelist.net/anime/21867/The_Disappearance_of_Conan_Edogawa__The_Wors
 https://myanimelist.net/anime/16870/The_Last__Naruto_the_Movie
 https://myanimelist.net/anime/40620/Uramichi_Oniisan
 https://myanimelist.net/anime/30123/Akagami_no_Shirayuki-hime
-https://myanimelist.net/anime/8609/Detective_Conan_OVA_10__Kid_in_Trap_Island
 https://myanimelist.net/anime/552/Digimon_Adventure
 https://myanimelist.net/anime/2397/Digimon_Adventure__Bokura_no_War_Game
 https://myanimelist.net/anime/35806/Haikyuu__vs_Akaten
@@ -918,6 +917,7 @@ https://myanimelist.net/anime/13203/Lupin_the_Third__Mine_Fujiko_to_Iu_Onna
 https://myanimelist.net/anime/37985/Aggressive_Retsuko_ONA_2nd_Season
 https://myanimelist.net/anime/1473/City_Hunter_91
 https://myanimelist.net/anime/1818/Claymore
+https://myanimelist.net/anime/8609/Detective_Conan_OVA_10__Kid_in_Trap_Island
 https://myanimelist.net/anime/40956/Enen_no_Shouboutai__Ni_no_Shou
 https://myanimelist.net/anime/35198/Free__Take_Your_Marks
 https://myanimelist.net/anime/2508/Genshiken_2
